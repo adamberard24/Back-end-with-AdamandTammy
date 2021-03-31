@@ -5,28 +5,38 @@
       "title": "John Wick",
       "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
       "trailer": "https://www.youtube.com/watch?v=C0BMx-qxsP4",
-      "views": 0
+      "views": 0,
+      "genreId": 1
       },
     {
       "id": 2,
       "title": "American Pie 2",
       "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Americanpie2.jpg",
       "trailer": "https://www.youtube.com/watch?v=FLWu4KewJlU",
-      "views": 0
+      "views": 0,
+      "genreId": 2
     },
     {
       "id": 3,
       "title": "The Departed",
       "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",
       "trailer": "https://www.youtube.com/watch?v=iQpb1LoeVUc",
-      "views": 0
+      "views": 0,
+      "genreId": 2
     },
     {
       "id": 4,
       "title": "The Room",
       "poster": "https://www.o-cinema.org/wp-content/uploads/2017/10/the-room.jpg",
       "trailer": "https://www.youtube.com/watch?v=tfMTHIwTUXA",
-      "views": 0
+      "views": 0,
+      "genreId": 1
     }
-  ]
+  ],
+  "genres": [
+    {"id": 1,
+    "name": "Action"},
+  
+  {"id": 2,
+    "name": "Comedy"}]
 }
