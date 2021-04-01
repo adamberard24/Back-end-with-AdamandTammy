@@ -51,6 +51,14 @@
 },
 {
   "id": 7,
+      "title": "A Cinderella Story",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD-8NISeVVCkk751hyi-PMCtcTLnsn4U4yfO3nmnUBmIihgjoB",
+      "trailer": "https://www.youtube.com/watch?v=B_VFs9j95gc",
+      "views": 0,
+      "genreId": 4
+},
+{
+  "id": 8,
       "title": "The Passion of the Christ",
       "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_Passion_of_the_Christ_poster.png",
       "trailer": "https://www.youtube.com/watch?v=4Aif1qEB_JU",
@@ -59,7 +67,7 @@
 },
 
 {
-  "id": 8,
+  "id": 9,
   "title": "Crash",
   "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Crash_ver2.jpg",
   "trailer": "https://www.youtube.com/watch?v=DEJH0hEoHc4",
@@ -71,21 +79,21 @@
 ],
   "genres": [
     {"id": 1,
-    "name": "Action (But only from 2004)"},
+    "name": "Action"},
   
   {"id": 2,
-    "name": "Comedy (But only from 2004)"},
+    "name": "Comedy"},
 
   {"id": 3,
-    "name": "Drama (But only from 2004)"},
+    "name": "Drama"},
 
   {"id": 4,
-    "name": "Kids (But only from 2004)"},
+    "name": "Kids"},
 
     {"id": 5,
-      "name": "Horror (But only from 2004)"},
+      "name": "Horror"},
 
       {"id": 6,
-        "name": "Sci-Fi (But only from 2004)"}
+        "name": "Sci-Fi"}
   ]
 }

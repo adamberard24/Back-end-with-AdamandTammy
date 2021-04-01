@@ -1,18 +1,10 @@
 {
   "movies": [
     {
-      "id": 1,
-      "title": "Blade Trinity",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/Blade_Trinity_poster.JPG",
-      "trailer": "https://www.youtube.com/watch?v=fPcNbsW69Eg",
-      "views": 0,
-      "genreId": 1
-      },
-    {
       "id": 2,
       "title": "The Girl Next Door",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCT135eo6bymRCR76n-lpdj-1rJFfSMf8DwPNZNa9ZNeCZj4z",
-      "trailer": "https://www.youtube.com/watch?v=fX0yxwpR8v8",
+      "trailer": "https://www.youtube.com/embed/5nfbnt93Qe4",
       "views": 0,
       "genreId": 2
     },
@@ -20,72 +12,59 @@
       "id": 3,
       "title": "Eurotrip",
       "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3qyA0qxJNudBeyb1jYnPSMqjGvxAU53xv7_n5dn4w5iURijXx",
-      "trailer": "https://www.youtube.com/watch?v=yZSoJtFxP4A",
+      "trailer": "https://www.youtube.com/embed/yZSoJtFxP4A",
       "views": 0,
       "genreId": 2
     },
     {
-      "id": 4,
-      "title": "Kill Bill: Vol. 2",
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOHIHFug2xeVhgyUMzwV0fT_uooJ-rGYJgRAYSBpc9bIeiOK0",
-      "trailer": "https://www.youtube.com/watch?v=S-1QgOMQ-ls",
-      "views": 0,
-      "genreId": 1
-    },
-
-   { "id": 5,
-      "title": "Saw",
-      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQDT7PEjjhVUoNQ2xV9oXjrzFtk1pOr6sFLmkTmD3HvY3l07Y7",
-      "trailer": "https://www.youtube.com/watch?v=WTt8cCIvGYI",
-      "views": 0,
-      "genreId": 5
-   },
-
-   {
-    "id": 6,
+      "id": 6,
       "title": "Butterfly Effect",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFwRRMC3g0sGvlasPtRSZzDWWoOYy243cc-HXdosyIMdWBe4W",
-      "trailer": "https://www.youtube.com/watch?v=g5FFh8PH0mY",
+      "trailer": "https://www.youtube.com/embed/g5FFh8PH0mY",
       "views": 0,
       "genreId": 6
-},
-{
-  "id": 7,
-      "title": "The Passion of the Christ",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_Passion_of_the_Christ_poster.png",
-      "trailer": "https://www.youtube.com/watch?v=4Aif1qEB_JU",
+    },
+    {
+      "id": 7,
+      "title": "A Cinderella Story",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD-8NISeVVCkk751hyi-PMCtcTLnsn4U4yfO3nmnUBmIihgjoB",
+      "trailer": "https://www.youtube.com/embed/B_VFs9j95gc",
       "views": 0,
       "genreId": 4
-},
-
-{
-  "id": 8,
-  "title": "Crash",
-  "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Crash_ver2.jpg",
-  "trailer": "https://www.youtube.com/watch?v=DEJH0hEoHc4",
-  "views": 0,
-  "genreId": 3
-}
-
-
-],
+    },
+    {
+      "id": 8,
+      "title": "The Passion of the Christ",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_Passion_of_the_Christ_poster.png",
+      "trailer": "https://www.youtube.com/embed/4Aif1qEB_JU",
+      "views": 0,
+      "genreId": 4
+    }
+  ],
   "genres": [
-    {"id": 1,
-    "name": "Action (But only from 2004)"},
-  
-  {"id": 2,
-    "name": "Comedy (But only from 2004)"},
-
-  {"id": 3,
-    "name": "Drama (But only from 2004)"},
-
-  {"id": 4,
-    "name": "Kids (But only from 2004)"},
-
-    {"id": 5,
-      "name": "Horror (But only from 2004)"},
-
-      {"id": 6,
-        "name": "Sci-Fi (But only from 2004)"}
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Drama"
+    },
+    {
+      "id": 4,
+      "name": "Kids"
+    },
+    {
+      "id": 5,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Sci-Fi"
+    }
   ]
 }
