@@ -4,8 +4,8 @@
       "id": 2,
       "title": "The Girl Next Door",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCT135eo6bymRCR76n-lpdj-1rJFfSMf8DwPNZNa9ZNeCZj4z",
-      "trailer": "https://www.youtube.com/embed/5nfbnt93Qe4",
-      "views": 0,
+      "trailer": "https://www.youtube.com/embed/fX0yxwpR8v8",
+      "views": 6,
       "genreId": 2
     },
     {
@@ -13,7 +13,7 @@
       "title": "Eurotrip",
       "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3qyA0qxJNudBeyb1jYnPSMqjGvxAU53xv7_n5dn4w5iURijXx",
       "trailer": "https://www.youtube.com/embed/yZSoJtFxP4A",
-      "views": 0,
+      "views": 6,
       "genreId": 2
     },
     {
@@ -21,7 +21,7 @@
       "title": "Butterfly Effect",
       "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFwRRMC3g0sGvlasPtRSZzDWWoOYy243cc-HXdosyIMdWBe4W",
       "trailer": "https://www.youtube.com/embed/g5FFh8PH0mY",
-      "views": 0,
+      "views": 6,
       "genreId": 6
     },
     {
@@ -29,7 +29,7 @@
       "title": "A Cinderella Story",
       "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD-8NISeVVCkk751hyi-PMCtcTLnsn4U4yfO3nmnUBmIihgjoB",
       "trailer": "https://www.youtube.com/embed/B_VFs9j95gc",
-      "views": 0,
+      "views": 2,
       "genreId": 4
     },
     {
@@ -37,8 +37,112 @@
       "title": "The Passion of the Christ",
       "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_Passion_of_the_Christ_poster.png",
       "trailer": "https://www.youtube.com/embed/4Aif1qEB_JU",
-      "views": 0,
+      "views": 2,
       "genreId": 4
+    },
+    {
+      "title": "Napolean Dynamite",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMcFkF1PT7NtNwFzkVHfYW9gTpQMVt3ecLuBJARrZQIfWmYnZS",
+      "trailer": "https://www.youtube.com/embed/ZHDi_AnqwN4",
+      "views": 2,
+      "genreId": 2,
+      "id": 9
+    },
+    {
+      "title": "Scooby-Doo 2",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZGi0Etb8ktj7ZR6e2GCOkcTXS6CNctFSstguLHUmsFS_4Fru2",
+      "trailer": "https://www.youtube.com/embed/TT76WvGRGEs",
+      "views": 1,
+      "genreId": 4,
+      "id": 10
+    },
+    {
+      "title": "Shrek 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b9/Shrek_2_poster.jpg",
+      "trailer": "https://www.youtube.com/embed?v=V6X5ti4YlG8",
+      "views": 2,
+      "genreId": 4,
+      "id": 11
+    },
+    {
+      "title": "The Aviator",
+      "poster": "data:image/jpeg;base64,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",
+      "trailer": "https://www.youtube.com/embed?v=FebPJlmgldE",
+      "views": 2,
+      "genreId": 3,
+      "id": 12
+    },
+    {
+      "title": "Spider-Man 2",
+      "poster": "https://www.coverwhiz.com/uploads/movies/Spider-Man-2.jpg",
+      "trailer": "https://www.youtube.com/embed/1s9Yln0YwCw",
+      "views": 0,
+      "genreId": 1,
+      "id": 13
+    },
+    {
+      "title": "Harry Potter and The Prisoner of Azkaban ",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/lAxgztbYDbs",
+      "views": 1,
+      "genreId": 4,
+      "id": 14
+    },
+    {
+      "title": "The Day After Tomorrow",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZD_eENzj7Rxzne_SN0PUWqAuCMIR0hVAJmCMe5mCVuczq3kQn",
+      "trailer": "https://www.youtube.com/embed/HUBDFoMNXzA",
+      "views": 1,
+      "genreId": 1,
+      "id": 15
+    },
+    {
+      "title": "Blade: Trinity",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Q9w28FpP9-EBN6yebTrIAQZnWquauMBLd4tluQLYeU0Y26A_",
+      "trailer": "https://www.youtube.com/embed/fPcNbsW69Eg",
+      "views": 0,
+      "genreId": 1,
+      "id": 16
+    },
+    {
+      "title": "Saw",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQDT7PEjjhVUoNQ2xV9oXjrzFtk1pOr6sFLmkTmD3HvY3l07Y7",
+      "trailer": "https://www.youtube.com/embed/S-1QgOMQ-ls",
+      "views": 1,
+      "genreId": 5,
+      "id": 17
+    },
+    {
+      "title": "Catwoman",
+      "poster": "https://images.moviesanywhere.com/daeca644a378d8342338668d72977456/9c8149e9-bd9b-45bd-a689-2a533d738069.jpg",
+      "trailer": "https://www.youtube.com/embed/d6pJbjbRnAA",
+      "views": 0,
+      "genreId": 1,
+      "id": 18
+    },
+    {
+      "title": "The Grudge",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjwCwW1scAjLMokfRGbpzFiMtiA56PM8FqhvS3FmII0-5JX52d",
+      "trailer": "https://www.youtube.com/embed/tqn2t3PefdY",
+      "views": 0,
+      "genreId": 5,
+      "id": 19
+    },
+    {
+      "title": "Mean Girls",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR6j8DqZVaxORmoAHUl4spy9FJnh2ugHrPAE2i5fCnf-sVF0ff",
+      "trailer": "https://www.youtube.com/embed/oDU84nmSDZY",
+      "views": 0,
+      "genreId": 2,
+      "id": 20
+    },
+    {
+      "title": "New York Minute",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/New_York_Minute_%28movie_poster%29.jpg/220px-New_York_Minute_%28movie_poster%29.jpg",
+      "trailer": "https://www.youtube.com/embed/nB9VyKVHKKw",
+      "views": 0,
+      "genreId": 4,
+      "id": 21
     }
   ],
   "genres": [
